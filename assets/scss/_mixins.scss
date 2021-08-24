@@ -1,0 +1,13 @@
+@mixin sec-branding{
+    
+    position: absolute;
+    top: 50%;
+    left: 0;
+    font-size: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #b4b4b4;
+    font-weight: $fontBold;
+    opacity: 0.1;
+
+}
